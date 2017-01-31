@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<productionResult>
+	<id>12345678</id>
+	<itemId>item123456</itemId>
+	<qty>1</qty>
+	<batch>123456789</batch>
+	<itemdesc>Something good</itemdesc>
+	<location>loc1</location>
+</productionResult>
